@@ -1,0 +1,95 @@
+body, html {
+	background-color: #323c4c;
+}
+
+/*#base {
+	background-color: #323c4c;
+	width: 750px;
+	height: 2000px;
+
+
+}*/
+
+#header {
+	font-family: 'Fjalla One', sans-serif;
+	color: white;
+	position: center;
+	font-size: 80px;
+	padding-top: 10px;
+	background-color: #79a0e0;
+
+}
+
+#divider {
+	background-color: white;
+	width: 100%;
+	height: 10px;
+}
+
+#info {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	font-size: 20px;
+}
+
+.inputs {
+	font-family: 'Oswald', sans-serif;
+
+	color: #c7dbfc;
+	font-size: 40px;
+	}
+
+input[type=text] {
+    border: 2px solid #c7dbfc;
+    border-radius: 4px;
+    margin: 10px;
+    font-size: 35px;
+    
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #c7dbfc;
+    border: none;
+    color: grey;
+    padding: 10px 50px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    
+}
+
+#btmBtns button {
+	font-family: 'Oswald', sans-serif;
+
+    background-color: #c7dbfc; 
+    border: none;
+    color: grey;
+    padding: 15px 15px;
+    margin: 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+}
+
+
+#output {
+	color: #323c4c;
+	font-family: 'Fjalla One', sans-serif;
+	background-color: #c7dbfc;
+	padding: 20px;
+}
+
+.Btns {
+	width:100px;
+	height: 50px;
+	margin:20px;
+	background-color: #79a0e0;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Fjalla One', sans-serif;
+} 
+}
